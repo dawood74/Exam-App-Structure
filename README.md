@@ -1,4 +1,4 @@
-# 📚 ITI-Task-Exam-App-Structure-task-
+# 📚 Exam-App-Structure-task-
 
 A C# console-based application that simulates a  exam system structure. This project was built as part of an ITI programming task, featuring classes for exams, questions, answers, students, and logging exam content to a file.
 
